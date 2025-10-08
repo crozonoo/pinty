@@ -1,7 +1,9 @@
 <img width="1504" height="434" alt="image" src="https://github.com/user-attachments/assets/7213ef2f-2452-4fdd-96ac-ded7925d7331" />
-# pinty
-A lightweight, PHP+SH powered server monitor system.
-[Showcase](https://sense.276966.xyz) [Telegram Group](https://t.me/@pintyuser) [中文README](https://github.com/crozonoo/pinty/CN_README.md)
+
+# Pinty Monitor
+*A lightweight, PHP+SH powered server monitor system that's scalable, relieable.*
+
+[Showcase](https://sense.276966.xyz) | [Telegram Group](https://t.me/pintyuser) | [中文README](https://github.com/crozonoo/pinty/CN_README.md)
 
 # Features
 - Track your server's status, ranging from CPU info to processes.
@@ -11,6 +13,7 @@ A lightweight, PHP+SH powered server monitor system.
 - Show enterprise systems' statuses via System Status. (Coming Soon)
 - Run automated actions based on server actions. (Coming Soon)
 - PHP+BASH powered with extreme performance, even hosting friendly.
+- Stateless deployment to support multi-location monitoring. (Coming Soon)
 - Support Linux, Windows even macOS's tracking, NAT friendly.
 - Support PostgreSQL, MySQL, SQLite as backend database.
 
