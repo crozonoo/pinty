@@ -3,7 +3,7 @@
 # Pinty Monitor
 *A lightweight, PHP+SH powered server monitor system that's scalable, relieable.*
 
-[Showcase](https://sense.276966.xyz) | [Telegram Group](https://t.me/pintyuser) | [中文README](https://github.com/crozonoo/pinty/CN_README.md)
+[Showcase](https://sense.276966.xyz) | [Telegram Group](https://t.me/pintyuser) | [中文README](https://github.com/crozonoo/pinty/blob/main/CN_README.md)
 
 # Features
 - Track your server's status, ranging from CPU info to processes.
